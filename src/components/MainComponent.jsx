@@ -20,4 +20,5 @@ function MainComponent() {
         </main>
     );
 }
+
 export default MainComponent;
